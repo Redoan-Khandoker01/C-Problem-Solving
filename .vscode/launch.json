@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Phitron.io/C-Problem_Solving/Problem_1",
-      "program": "d:/Phitron.io/C-Problem_Solving/Problem_1/build/Debug/outDebug",
+      "cwd": "d:/Phitron.io/C-Problem_Solving/2_problem",
+      "program": "d:/Phitron.io/C-Problem_Solving/2_problem/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
