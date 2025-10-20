@@ -12,12 +12,12 @@ int main()
     int remove;
     scanf("%d",&remove);
 
-    for(int i=remove;i<n;i++)
+    for(int i=remove;i<n-1;i++)
     {
         array[i]=array[i+1];
 
     }
-    for (int i = 0; i <n-1; i++)
+    for (int i = 0; i <n; i++)
     {
         printf("%d ", array[i]);
     }
