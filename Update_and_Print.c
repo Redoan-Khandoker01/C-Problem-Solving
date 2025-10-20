@@ -9,6 +9,7 @@ int main()
     {
         scanf("%d", &a[i]);
         // printf("%d ", a[i]);
+        // redoan kfsalkflka
     }
 
     int x,v;
